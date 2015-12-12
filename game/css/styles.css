@@ -1,0 +1,19 @@
+.node{
+    position: absolute;
+    display: block;
+    width: 14px;
+    height: 14px;
+    background-color: #205dc5;
+    border: 3px solid #0f3b87;
+    border-radius: 100%;
+}
+
+.food{
+    position: absolute;
+    display: block;
+    width: 14px;
+    height: 14px;
+    background-color: #d52020;
+    border: 3px solid #690f0f;
+    border-radius: 100%;
+}
